@@ -8,4 +8,3 @@ for i in range(0, 100):
         print("0{}".format(i), end=end)
     else:
         print("{}".format(i), end=end)
-
